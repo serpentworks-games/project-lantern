@@ -1,0 +1,35 @@
+Mono path[0] = 'D:/GameDevStuff/ProjectLantern/Project_Lanturn_V2/TestBuild_Data/Managed'
+Mono path[1] = 'D:/GameDevStuff/ProjectLantern/Project_Lanturn_V2/TestBuild_Data/Mono'
+Mono config path = 'D:/GameDevStuff/ProjectLantern/Project_Lanturn_V2/TestBuild_Data/Mono/etc'
+PlayerConnection initialized from D:/GameDevStuff/ProjectLantern/Project_Lanturn_V2/TestBuild_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55129
+Multi-casting "[IP] 192.168.0.15 [Port] 55129 [Flags] 2 [Guid] 992401214 [EditorId] 338897556 [Version] 1048832 [Id] WindowsPlayer(GenevieveGrif) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55129]
+PlayerConnection already initialized - listening to [0.0.0.0:55129]
+Player data archive not found at `D:/GameDevStuff/ProjectLantern/Project_Lanturn_V2/TestBuild_Data/data.unity3d`, using local filesystemInitialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon HD 7800 Series (ID=0x6818)
+    Vendor:   ATI
+    VRAM:     2029 MB
+    Driver:   21.19.137.514
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\GameDevStuff\ProjectLantern\Project_Lanturn_V2\TestBuild_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\GameDevStuff\ProjectLantern\Project_Lanturn_V2\TestBuild_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\GameDevStuff\ProjectLantern\Project_Lanturn_V2\TestBuild_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\GameDevStuff\ProjectLantern\Project_Lanturn_V2\TestBuild_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\GameDevStuff\ProjectLantern\Project_Lanturn_V2\TestBuild_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\GameDevStuff\ProjectLantern\Project_Lanturn_V2\TestBuild_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\GameDevStuff\ProjectLantern\Project_Lanturn_V2\TestBuild_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\GameDevStuff\ProjectLantern\Project_Lanturn_V2\TestBuild_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\GameDevStuff\ProjectLantern\Project_Lanturn_V2\TestBuild_Data\Managed\ConditionalExpression.dll (this message is harmless)
+Loading D:\GameDevStuff\ProjectLantern\Project_Lanturn_V2\TestBuild_Data\Managed\ConditionalExpression.dll into Unity Child Domain
+Platform assembly: D:\GameDevStuff\ProjectLantern\Project_Lanturn_V2\TestBuild_Data\Managed\PlayMaker.dll (this message is harmless)
+Loading D:\GameDevStuff\ProjectLantern\Project_Lanturn_V2\TestBuild_Data\Managed\PlayMaker.dll into Unity Child Domain
+- Completed reload, in  0.035 seconds
+Platform assembly: D:\GameDevStuff\ProjectLantern\Project_Lanturn_V2\TestBuild_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\GameDevStuff\ProjectLantern\Project_Lanturn_V2\TestBuild_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 59Hz; virtual: 3520x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.

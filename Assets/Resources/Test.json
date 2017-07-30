@@ -1,0 +1,16 @@
+{
+	"application":{
+		"Name": "Grand Adventure",
+		"Version" : "0.0.0.1a"
+		},
+	"dialogue":[
+		{"id": 0,
+		"cow_1": "I am a cow.",
+		"cow_2": "I am not a cow.",
+		"cow_3": "I am a pog."
+		},
+		{"id" :1
+		}
+		]
+		
+}
